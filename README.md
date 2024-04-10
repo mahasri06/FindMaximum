@@ -1,11 +1,4 @@
 # Find the maximum of a list of numbers
-
-Developed by:Mahasri P
-
-Register no: 212223100029
-
-Dept:AIDS
-
 ## Aim:
 To write a program to find the maximum of a list of numbers.
 ## Equipment’s required:
@@ -55,15 +48,16 @@ def max_marks(marks):
 ## Output:
 i)
 
-![image](https://github.com/PreethiS647/FindMaximum/assets/147313372/031616ee-2bf0-4263-bf4e-ca151943e352)
+![Screenshot 2024-04-10 192750](https://github.com/mahasri06/FindMaximum/assets/139841897/c85545bd-743b-4b30-a1d8-92620b787c99)
+
 
 ii)
+![Screenshot 2024-04-10 192807](https://github.com/mahasri06/FindMaximum/assets/139841897/7e6a886d-0784-47e2-8ef0-e3ba9ea79eb2)
 
-![image](https://github.com/PreethiS647/FindMaximum/assets/147313372/94ac8560-ca95-471a-a825-405d680ca118)
 
 iii)
 
-![image](https://github.com/PreethiS647/FindMaximum/assets/147313372/5fee53df-77e4-429a-96b4-a9345e9e375f)
+![Screenshot 2024-04-10 192820](https://github.com/mahasri06/FindMaximum/assets/139841897/5dac2dba-5d85-4b88-abca-18eb51e6994e)
 
 
 
